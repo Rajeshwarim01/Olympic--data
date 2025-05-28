@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-oplympic-df1",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc20f333-0bbc-425d-871d-48a13850fba3",
+		"tenantId": "9940c4c1-b90e-4ab8-b771-9871a40a258b"
+	}
+}
